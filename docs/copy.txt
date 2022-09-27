@@ -1,0 +1,1807 @@
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A blue bicycle parked by a metal gate.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/0.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/0.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/0.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/0.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/0.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>an orange bike leaning on a pole in the snow</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/1.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/1.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/1.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/1.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/1.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>There are some colored lights hanging from street lamps</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/2.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/2.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/2.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/2.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/2.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The apple symbol is show on the Premacy car.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/3.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/3.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/3.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/3.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/3.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>An orange motorcycle is shown at close range.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/4.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/4.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/4.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/4.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/4.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A blue motorbike has a "Minnesota" license plate.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/5.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/5.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/5.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/5.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/5.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The side of an American aircraft showing the door.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/6.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/6.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/6.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/6.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/6.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A floor drain is set in concrete with an advisory not to step on it.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/7.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/7.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/7.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/7.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/7.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a bus covered with assorted colorful graffiti on the side of it</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/8.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/8.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/8.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/8.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/8.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bus covered in graffiti is stationary on the pavement</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/9.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/9.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/9.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/9.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/9.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bike image on some double doors with windows.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/10.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/10.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/10.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/10.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/10.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A red train cart is shown at close range.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/11.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/11.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/11.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/11.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/11.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A truck is drying several items of clothing in the sun.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/12.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/12.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/12.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/12.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/12.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The rotted out bed of a truck left in the woods.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/13.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/13.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/13.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/13.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/13.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A boat on the water tied down to a stake.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/14.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/14.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/14.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/14.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/14.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>An inflatable raft that has its top open.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/15.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/15.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/15.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/15.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/15.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A red light in front of a tall building</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/16.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/16.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/16.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/16.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/16.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A red and blue fire hydrant with flowers around it.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/17.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/17.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/17.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/17.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/17.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A red fire hydrant with an open sign on it</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/18.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/18.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/18.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/18.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/18.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A street sign with stickers on the back of it.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/19.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/19.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/19.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/19.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/19.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A red stop sign with lots of writing all over it.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/20.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/20.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/20.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/20.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/20.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A parking meter with a time expired label on it.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/21.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/21.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/21.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/21.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/21.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A blue faced machine for printing parking passes. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/22.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/22.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/22.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/22.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/22.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bag full of trash sitting on a old park bench.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/23.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/23.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/23.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/23.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/23.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A park bench sits under a tree with the sun shining.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/24.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/24.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/24.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/24.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/24.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a picture of a flamingo scratching its neck</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/25.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/25.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/25.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/25.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/25.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A large blue bird standing next to a painting of flowers.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/26.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/26.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/26.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/26.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/26.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>An orange cat looking upside down through glasses.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/27.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/27.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/27.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/27.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/27.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bulldog is wearing a black pirate hat.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/28.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/28.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/28.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/28.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/28.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a dog standing at a gate wanting to get out of the fence </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/29.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/29.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/29.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/29.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/29.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A brown and white horse wearning a harness eating some hay</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/30.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/30.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/30.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/30.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/30.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A brown and white horse is wearing a blue muzzle.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/31.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/31.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/31.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/31.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/31.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A sheep standing in the grass with something on its ears. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/32.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/32.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/32.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/32.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/32.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A sheep looking through the slats of a wired fence.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/33.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/33.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/33.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/33.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/33.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A black cow looks directly at the camera.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/34.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/34.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/34.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/34.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/34.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A horned cow  standing in a green grass field. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/35.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/35.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/35.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/35.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/35.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>An elephant with trimmed tusks relaxing with a covering of hay on its back.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/36.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/36.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/36.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/36.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/36.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>An elephant placing some leaves in its mouth with its trunk.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/37.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/37.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/37.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/37.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/37.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The polar bear swimming briskly through the ocean current</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/38.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/38.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/38.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/38.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/38.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A large black bear is facing straight ahead.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/39.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/39.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/39.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/39.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/39.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The painting is of a zebra in a cage. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/40.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/40.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/40.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/40.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/40.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A ZEBRA IS EATING GRASS ON THE GROUND </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/41.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/41.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/41.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/41.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/41.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a very big giraffe that is siting on the ground</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/42.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/42.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/42.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/42.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/42.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A stuffed animal in a bag in a room.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/43.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/43.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/43.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/43.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/43.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A large umbrella open wide on a pole.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/44.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/44.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/44.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/44.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/44.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The plants can be seen through the orange mesh.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/45.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/45.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/45.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/45.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/45.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A fireplace mantle that has been faced in a light stone.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/46.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/46.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/46.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/46.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/46.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A tan table top hosts a pen and a necktie.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/47.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/47.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/47.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/47.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/47.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A gold tie is tied under a brown dress shirt with stripes.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/48.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/48.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/48.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/48.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/48.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A piece of gray luggage with travel stickers.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/49.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/49.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/49.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/49.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/49.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A cat relaxes in a suitcase next to a pile of clothes.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/50.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/50.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/50.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/50.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/50.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A yellow frisbee next to a box with Nike Cleats.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/51.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/51.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/51.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/51.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/51.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Blue Frisbee and envelope it was shipped in. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/52.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/52.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/52.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/52.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/52.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A large pair of skis rests against a wall.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/53.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/53.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/53.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/53.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/53.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>APPEARS TO BE SOME OLD SKIS PROPPED UP AGAINST A STONE MEMORIAL</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/54.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/54.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/54.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/54.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/54.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A snowboard standing upright in a snow bank.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/55.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/55.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/55.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/55.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/55.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A snowboard and gloves laying in the snow. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/56.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/56.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/56.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/56.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/56.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A blue and white traffic sign on a grey brick wall.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/57.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/57.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/57.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/57.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/57.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A cat shaped kite sits in the grass. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/58.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/58.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/58.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/58.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/58.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>there is a very colorful kite that is in the air</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/59.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/59.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/59.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/59.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/59.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bat and shin guard in the closet.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/60.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/60.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/60.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/60.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/60.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a baseball bat with a batting helmet upsidedown</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/61.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/61.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/61.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/61.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/61.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A stuffed animal that is frowning is on a skateboard. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/62.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/62.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/62.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/62.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/62.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>An very well used upside down skateboard on grass</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/63.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/63.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/63.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/63.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/63.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>White surfboard leaning against a brown tiki wall.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/64.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/64.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/64.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/64.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/64.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A couple of snowmen have been built in suburban backyards after a recently fallen snow. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/65.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/65.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/65.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/65.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/65.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Very large tennis racket with hello kitty on it.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/66.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/66.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/66.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/66.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/66.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A blender and jar of red liquid on a table.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/67.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/67.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/67.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/67.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/67.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A plastic jar of honey glowing in the middle of the dark.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/68.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/68.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/68.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/68.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/68.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a table with a blender and a glass on it </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/69.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/69.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/69.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/69.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/69.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A glass of wine sitting on the top of a swimming pool side.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/70.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/70.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/70.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/70.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/70.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a glass measuring cup with yellow liquid in it</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/71.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/71.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/71.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/71.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/71.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a blender full of liquid is spilling everywhere</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/72.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/72.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/72.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/72.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/72.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a dish of food topped with sour cream and a fork</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/73.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/73.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/73.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/73.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/73.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A pizza and fork on a tray on the table</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/74.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/74.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/74.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/74.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/74.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A knife sitting on top of a wooden table next to a knife.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/75.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/75.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/75.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/75.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/75.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A pile of cabbage, noodles, and meat next to chopsticks</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/76.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/76.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/76.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/76.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/76.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Blender half full of a slurry, next to other electrical appliances.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/77.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/77.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/77.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/77.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/77.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bowl of a meal with an egg, "sunny side up", laid on top of everything</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/78.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/78.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/78.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/78.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/78.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A pork dish with onions and peppers on a white plate.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/79.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/79.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/79.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/79.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/79.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Someone wrote a message on a bunch of bananas.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/80.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/80.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/80.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/80.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/80.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Fruit growing on the side of a tree in a jungle. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/81.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/81.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/81.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/81.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/81.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bunch of apples stacked on a plate</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/82.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/82.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/82.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/82.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/82.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Apples on tree ready to pick in garden area.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/83.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/83.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/83.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/83.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/83.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A sandwich with meat, vegetables, peppers, and lettuce.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/84.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/84.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/84.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/84.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/84.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A pile of crab is seasoned and well cooked</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/85.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/85.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/85.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/85.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/85.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Cut up blood red oranges lay on a blue surface.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/86.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/86.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/86.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/86.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/86.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A plate of oranges sliced on top of a table</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/87.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/87.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/87.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/87.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/87.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A pile of broccoli laying on a plastic cutting board.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/88.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/88.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/88.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/88.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/88.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A plate of food has noodles and broccoli.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/89.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/89.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/89.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/89.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/89.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A tray that has meat and carrots on a table.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/90.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/90.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/90.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/90.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/90.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a stuffed grey rabbit holding a pretend carrot</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/91.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/91.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/91.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/91.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/91.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The two hotdogs have brown mustard on them. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/92.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/92.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/92.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/92.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/92.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a plate with a couple of hot dogs on it </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/93.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/93.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/93.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/93.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/93.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>View of what could possibly be a pizza with colorful vegetables as toppings.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/94.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/94.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/94.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/94.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/94.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A pizza that is covered in a lot of toppings.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/95.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/95.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/95.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/95.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/95.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A picture of a glazed donut with meat in the middle.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/96.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/96.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/96.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/96.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/96.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A donut is covered with glaze and sprinkles.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/97.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/97.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/97.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/97.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/97.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Fresh red strawberries on a whipped dessert. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/98.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/98.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/98.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/98.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/98.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Colorful icing on a pastry in the shapes of flowers. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/99.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/99.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/99.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/99.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/99.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The cat is sleeping comfortably on the chair. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/100.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/100.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/100.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/100.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/100.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A white cat curled up on a wooden chair.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/101.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/101.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/101.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/101.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/101.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A dog is sleeping on a pile of pillows.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/102.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/102.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/102.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/102.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/102.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a girl laying on the couch while on an laptop</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/103.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/103.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/103.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/103.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/103.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bouguet of wilted red roses on a table.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/104.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/104.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/104.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/104.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/104.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A small green vase displays some small yellow blooms.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/105.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/105.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/105.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/105.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/105.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A tear in a black, blue, white and yellow piece of material.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/106.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/106.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/106.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/106.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/106.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bed with white comforter and two black stiletto heels.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/107.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/107.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/107.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/107.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/107.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A plate of food consisting of rice, meat and vegetables.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/108.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/108.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/108.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/108.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/108.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A plate of food is centered around a portion of rice</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/109.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/109.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/109.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/109.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/109.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a porcelian scuplture sitting on a table next to a cup</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/110.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/110.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/110.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/110.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/110.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bucket collects drips of water, inside a metal basin.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/111.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/111.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/111.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/111.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/111.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The back of a flat screened tv connected to a ipad .</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/112.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/112.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/112.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/112.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/112.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A cluster of pine trees are in a barren area.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/113.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/113.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/113.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/113.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/113.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A bobble head is placed on a laptop keyboard</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/114.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/114.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/114.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/114.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/114.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A computer mouse sitting on a keyboard on a desk.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/115.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/115.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/115.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/115.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/115.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A silver and black wired computer mouse on a wooden surface.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/116.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/116.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/116.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/116.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/116.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A slug crawling on the ground around flower petals.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/117.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/117.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/117.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/117.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/117.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>two remotes sitting on a table together </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/118.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/118.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/118.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/118.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/118.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The wii controller remote is turned on and has one light showing.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/119.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/119.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/119.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/119.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/119.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A black computer keyboard with a bunch of keys on it</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/120.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/120.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/120.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/120.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/120.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A keyboard that is missing some keys in the bottom row</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/121.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/121.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/121.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/121.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/121.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A cellphone standing upright with its camera side facing forward.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/122.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/122.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/122.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/122.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/122.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>There is a cell phone on a table.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/123.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/123.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/123.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/123.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/123.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A microwave with fake eyes and a beard on it</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/124.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/124.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/124.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/124.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/124.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Food steaming machine on the shelf of a store.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/125.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/125.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/125.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/125.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/125.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A yellow shallow baking dish in an open oven.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/126.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/126.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/126.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/126.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/126.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>some food cooking on trays in an oven</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/127.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/127.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/127.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/127.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/127.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The toaster oven is turned on, on the counter in the kitchen.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/128.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/128.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/128.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/128.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/128.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A picture of a toaster plastered on a do not enter sign</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/129.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/129.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/129.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/129.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/129.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a old kitchen with no appliances inside of it </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/130.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/130.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/130.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/130.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/130.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Two pictures of a hole in a counter with a lid.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/131.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/131.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/131.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/131.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/131.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a fridge is slightly open in a room</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/132.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/132.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/132.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/132.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/132.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>The poster board is a special place for remembrances.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/133.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/133.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/133.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/133.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/133.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A stuffed animal sitting in the grass, with a book in front of it.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/134.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/134.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/134.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/134.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/134.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A run down windows with a broken fence outside.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/135.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/135.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/135.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/135.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/135.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>An old and rusted clock is mounted on a brick wall.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/136.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/136.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/136.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/136.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/136.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a big metal clock sitting on the wall by itself</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/137.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/137.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/137.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/137.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/137.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Bouquet of flowers sitting in a clear glass vase. </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/138.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/138.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/138.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/138.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/138.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A blue jug in a garden filled with mud.  </center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/139.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/139.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/139.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/139.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/139.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>a sign that is advertising a barber shop</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/140.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/140.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/140.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/140.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/140.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A pair of scallop scrapbooking scissors on top of an envelope.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/141.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/141.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/141.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/141.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/141.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A stuffed bear is wearing a shirt with personalized writing.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/142.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/142.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/142.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/142.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/142.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A pair of yellow and pink teddy bears leaning against a wall.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/143.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/143.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/143.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/143.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/143.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A large statue of a female cow with a blonde wig</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/144.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/144.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/144.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/144.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/144.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Rubber shoes lying on a carpet with floral prints</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/145.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/145.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/145.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/145.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/145.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A frog with teeth is on a purple toothbrush.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/146.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/146.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/146.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/146.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/146.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A worn toothbrush sits on a windowsill near the screen.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/147.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/147.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/147.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/147.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/147.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A street sign says Walk and Don#t Walk.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/148.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/148.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/148.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/148.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/148.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A cat is staring ahead as the back another cat#s head is seen in front of him.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/149.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/149.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/149.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/149.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/149.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center></center></td>    </tr>
+    <tr>
+        <td><center>Ours (Explicit) ViT32</center></td>
+        <td><center>Ours (Explicit) ViT16</center></td>
+        <td><center>Ours (Explicit) ViT32+ViT14</center></td>
+        <td><center>Ours (Implicit) ViT16</center></td>
+        <td><center>Dream Fields ViT16</center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A giraffe leaning it#s long neck over the fence to eat leaves off a bush.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/150.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/150.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/150.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/150.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/150.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>A small surfboard sign that says TRADER VIC#S, Los Angeles.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/151.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/151.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/151.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/151.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/151.gif"></center></td>
+    </tr>
+    <tr>
+        <td colspan="5"><center>Beet tops and a chef#s knife on a cutting board.</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32/152.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16/152.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT32_ViT14/152.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_imp/152.gif"></center></td>
+        <td><center><img src="/assets/images/load.jpg" width="224" data-echo="/assets/images/153_gif/ViT16_DF/152.gif"></center></td>
+    </tr>
